@@ -1,0 +1,10 @@
+var n1 = 2;
+var n2 = 6;
+var n3 = 3;
+var n4 = 11;
+var n5 = 4;
+var n6 = 88;
+console.log(n1 + n2);
+console.log(n4 - n3);
+console.log(n1 * n5);
+console.log(n6 / n4);
